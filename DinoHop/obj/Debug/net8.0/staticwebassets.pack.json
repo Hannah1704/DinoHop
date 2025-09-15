@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\obj\\Debug\\net8.0\\compressed\\3xbmft5e9f.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DinoHop.styles.css",
+      "PackagePath": "staticwebassets\\DinoHop.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\wwwroot\\game.js",
+      "PackagePath": "staticwebassets\\game.js"
+    },
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\wwwroot\\images\\cactus.jpeg",
+      "PackagePath": "staticwebassets\\images\\cactus.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\wwwroot\\images\\dino.png",
+      "PackagePath": "staticwebassets\\images\\dino.png"
+    },
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\wwwroot\\images\\sky.jpg",
+      "PackagePath": "staticwebassets\\images\\sky.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\hanna\\DinoHop\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DinoHop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DinoHop.props",
+      "PackagePath": "build\\DinoHop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DinoHop.props",
+      "PackagePath": "buildMultiTargeting\\DinoHop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DinoHop.props",
+      "PackagePath": "buildTransitive\\DinoHop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
